@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "identifier": "vn.mlbb.fanny-aspirants-ling-neobeast.catalog",
+  "name": "MLBB Fanny Aspirants & Ling NeoBeast",
+  "description": "Danh mục tham khảo cho Fanny - The Aspirants và Ling - NeoBeast. Không chứa tệp mod, dữ liệu game hoặc liên kết mở khóa skin.",
+  "packages": [
+    {
+      "identifier": "mlbb-fanny-aspirants",
+      "name": "Fanny - The Aspirants",
+      "version": "1.0.0",
+      "summary": "Danh mục tham khảo skin Fanny The Aspirants",
+      "description": "Thông tin tham khảo về skin Fanny The Aspirants và các hiệu ứng kỹ năng liên quan.",
+      "category": "MLBB Cosmetics",
+      "tags": [
+        "MLBB",
+        "Fanny",
+        "The Aspirants",
+        "Skin",
+        "Effects"
+      ]
+    },
+    {
+      "identifier": "mlbb-ling-neobeast",
+      "name": "Ling - NeoBeast",
+      "version": "1.0.0",
+      "summary": "Danh mục tham khảo skin Ling NeoBeast",
+      "description": "Thông tin tham khảo về skin Ling NeoBeast và các hiệu ứng kỹ năng liên quan.",
+      "category": "MLBB Cosmetics",
+      "tags": [
+        "MLBB",
+        "Ling",
+        "NeoBeast",
+        "Skin",
+        "Effects"
+      ]
+    }
+  ]
+}
